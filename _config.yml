@@ -12,9 +12,9 @@ title                    : "Mohammad Selim, Ph.D."
 title_separator          : "-"
 name                     : &name "Mohammad Selim"
 description              : &description "I am a Postdoc ORISE fellow at US Food and Drug Administation."
-url                      : https://mselim.github.io
+url                      : https://selimmd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "selimmd/mselim.github.io"
+repository               : "selimmd/selimd.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
