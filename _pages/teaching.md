@@ -14,7 +14,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ### 2024
-#### [Fall 2024 | Natural Language Processing] North eastern university(https://selimmd.github.io/_teaching/nlp2024/)
+#### [Fall 2024 | Natural Language Processing] North eastern university(https://selimmd.github.io/nlp2024/)
 #### [Spring 2024 | Advance Software Design] North eastern university
 <br/>
 
