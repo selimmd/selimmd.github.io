@@ -8,7 +8,9 @@ redirect_from:
   - about.html
 ---
 
-Md Selim is a CS Ph.D. graduate from University of Kentucky. His reserach focus is utlizing generative models for image/data sysnthesis. He wants to explore the application of computational intelligence in HealthCare and engineering problems. He started his Phd in the fall 2018. Before starting his PhD, he has earned his BS and MS from the University of Dhaka in Software Engineering. Currently, he is a postdoctoral ORISE Fellow at the US Food and Drug Administration. He wants to explore the application of computational intelligence in HealthCare. Before starting his PhD, he has earned his BS and MS from the University of Dhaka in Software Engineering.
+Welcome to my webpage! I'm Dr. Mohammad Selim, a computer science Ph.D. graduate from the University of Kentucky with a research focus on utilizing generative models for image and data synthesis. My journey in computational intelligence began during my BS and MS studies in Software Engineering at the University of Dhaka, leading me to explore innovative applications in healthcare and engineering. Currently, as a postdoctoral ORISE Fellow at the US Food and Drug Administration, I'm passionate about leveraging AI to tackle complex challenges in healthcare and engineering, aiming to bridge the gap between theory and impactful solutions. Let's connect and explore the exciting intersections of technology and real-world problem-solving!
+
+
 
 
 ## News
