@@ -5,5 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-My detail articles list is available on Google Scholar profile [link](https://scholar.google.com/citations?user=lx7UxJcAAAAJ&hl=en)
+I have a comprehensive list of articles available on my Google Scholar profile [link](https://scholar.google.com/citations?user=lx7UxJcAAAAJ&hl=en)
 
