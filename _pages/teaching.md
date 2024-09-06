@@ -14,10 +14,10 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ### 2024
-#### [Fall 2024 | Natural Language Processing](https://selimmd.github.io/nlp2024/)  North eastern university
-#### [Spring 2024 | Advance Software Design] North eastern university
+#### [Fall 2024 | Natural Language Processing](https://selimmd.github.io/nlp2024/)  Northeastern university
+#### [Spring 2024 | Advance Software Design] Northeastern university
 <br/>
 
 ### 2022
-#### [Fall 2022 | Engineering I] First year engineering at University of Kentucky
+#### [Fall 2022 | Engineering I] First year engineering at the University of Kentucky
 <br/>
