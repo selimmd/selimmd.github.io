@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mohammad Selim, Ph.D."
+title: "Md (Mohammad) Selim, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - about.html
 ---
 
-Welcome to my webpage! I'm Dr. Mohammad Selim, a computer science Ph.D. graduate from the University of Kentucky with a research focus on utilizing generative models for image and data synthesis. My journey in computational intelligence began during my BS and MS studies in Software Engineering at the University of Dhaka, leading me to explore innovative applications in healthcare and engineering. Currently, as a postdoctoral ORISE Fellow at the US Food and Drug Administration, I'm passionate about leveraging AI to tackle complex challenges in healthcare and engineering, aiming to bridge the gap between theory and impactful solutions. Let's connect and explore the exciting intersections of technology and real-world problem-solving!
+I am an Assistant Professor in the Department of Computer Science at Florida Polytechnic University. I obtained my PhD in Computer Science from the University of Kentucky and subsequently served as an ORISE Fellow at the U.S. Food and Drug Administration.
+
+My research focuses on leveraging artificial intelligence to address critical challenges in healthcare and engineering. The Multimodal Health Research Lab aims to develop robust AI methodologies that integrate diverse data modalities—including medical imaging, natural language, and clinical data—to advance precision medicine and improve patient outcomes.
+
+Through interdisciplinary collaboration, our goal is to translate theoretical AI advances into practical healthcare solutions with meaningful societal impact.
 
 
 
