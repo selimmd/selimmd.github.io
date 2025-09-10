@@ -14,8 +14,12 @@ My research focuses on leveraging artificial intelligence to address critical ch
 
 Through interdisciplinary collaboration, our goal is to translate theoretical AI advances into practical healthcare solutions with meaningful societal impact.
 
+## Research Area
+- Multimodal Data Fusion    | - Generative AI  
+- AI in Health              | - Disaster Informatics
 
-
+## Open position
+Interested in working together? Send me an email, and we’ll schedule a meeting.
 
 ## News
 - Aug 2025: Joined Florida Polytechnic University as an Assistant Professor.
