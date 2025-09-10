@@ -18,7 +18,7 @@ Through interdisciplinary collaboration, our goal is to translate theoretical AI
 
 
 ## News
-- Aug 2025: Joined as Florida Polytechnic University
+- Aug 2025: Joined Florida Polytechnic University as an Assistant Professor.
 - Aug 2024: Going to join CT meeting conferance 2024 at Bemburg, Germany to present my research work.
 - Apr 2024: Our abstruct on CT imeage resolution assesment work accepted at CT meeting 2024. 
 - Jan 2024: Joined as a part-time instructor at the Northeastern University Khoury College of Computer Sciences in the Arlington,VA campuses!
