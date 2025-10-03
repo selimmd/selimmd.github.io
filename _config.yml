@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Selim, Ph.D."
+title                    : "Hi.... :wave:"
 title_separator          : "-"
-name                     : &name "Mohammad Selim"
+name                     : &name "Mohammad Selim, Ph.D."
 description              : &description "I am a Postdoc ORISE fellow at US Food and Drug Administation."
 url                      : https://selimmd.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
