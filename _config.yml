@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi.... :wave:"
+title                    : "Mohammad Selim, Ph.D."
 title_separator          : "-"
 name                     : &name "Mohammad Selim, Ph.D."
 description              : &description "I am an Assistant Professor at Florida Polytechnic University."
@@ -22,7 +22,7 @@ repository               : "selimmd/selimd.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Mohammad Selim"
+  name             : "Mohammad Selim, Ph.D."
   #pronouns         : he/his
   bio              : "Assistant Professor"
   location         : "Lakeland, FL"
