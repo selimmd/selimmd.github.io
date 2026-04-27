@@ -10,16 +10,22 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Computer Science at Florida Polytechnic University. I obtained my PhD in Computer Science from the University of Kentucky and subsequently served as an ORISE Fellow at the U.S. Food and Drug Administration.
 
-My research focuses on leveraging artificial intelligence to address critical challenges in healthcare and engineering. I am also leading **Multimodal Health Research Lab** to develop robust AI methodologies that integrate diverse data modalities—including medical imaging, natural language, and clinical data—to advance precision medicine and improve patient outcomes.
+My research focuses on leveraging artificial intelligence to address critical challenges in healthcare and engineering. I am also leading **Multimodal AI Research Lab** to develop robust AI methodologies that integrate diverse data modalities—including visual, text, and structured data source. His work bridges advanced computational methods with real-world impact in clinical diagnostics, geospatial intelligence, and aerial image interpretation.
 
-Through interdisciplinary collaboration, our goal is to translate theoretical AI advances into practical healthcare solutions with meaningful societal impact.
+Through interdisciplinary collaboration, our goal is to translate theoretical AI advances into practical solutions with meaningful societal impact.
 
-## Research Area
-- Multimodal Data Fusion
-- Generative AI (Vision & NLP)
-- AI in Health
-- Disaster Informatics
-  
+## Research Interests
+💻 Computer Vision | 🗣️ Natural Language Processing | ⚙️ Software Engineering | 🔐 Cybersecurity
+
+## Research Applications
+🔬 Multimodal Data Fusion & Pattern Discovery
+Developing algorithms that integrate heterogeneous data types (images, text, tabular) to reveal hidden correlations and complex signatures across modalities.
+
+🏥 Clinical Intelligence & Diagnostic Support
+Applying data fusion techniques to medical imaging, patient records, and clinical metrics to improve diagnostic accuracy and personalized treatment pathways.
+
+🌍 Geospatial & Aerial Image Analytics
+Leveraging remote sensing, GIS data, and aerial imagery combined with environmental variables to support real-time monitoring, disaster response, and urban planning.
 
 ## Open position
 - Interested in working together? Send me an email, and we’ll schedule a meeting.
