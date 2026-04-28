@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Selim, Ph.D."
+title                    : "Florida Polytechnic University"
 title_separator          : "-"
 name                     : &name "Mohammad Selim, Ph.D."
 description              : &description "I am an Assistant Professor at Florida Polytechnic University."
