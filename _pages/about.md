@@ -8,11 +8,9 @@ redirect_from:
   - about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at Florida Polytechnic University. I obtained my PhD in Computer Science from the University of Kentucky and subsequently served as an ORISE Fellow at the U.S. Food and Drug Administration.
+I lead the Multimodal AI Research Lab at Florida Polytechnic University, where we develop intelligent systems that integrate vision, language, and data to solve critical challenges in healthcare, security, and geospatial analytics.
 
-My research focuses on leveraging artificial intelligence to address critical challenges in healthcare and engineering. I am also leading **Multimodal AI Research Lab** to develop robust AI methodologies that integrate diverse data modalities—including visual, text, and structured data source. My work bridges advanced computational methods with real-world impact in clinical diagnostics, geospatial intelligence, and aerial image interpretation.
-
-Through interdisciplinary collaboration, our goal is to translate theoretical AI advances into practical solutions with meaningful societal impact.
+With a PhD from the University of Kentucky and experience as an ORISE Fellow at the FDA, my work bridges rigorous computational research with real-world impact. I'm passionate about AI that doesn't just perform well in the lab—but makes a measurable difference in clinical diagnostics, disaster response, and secure infrastructure.
 
 ## Research Interests
 💻 Computer Vision      |  🗣️ Natural Language Processing
