@@ -26,8 +26,8 @@ author:
   #pronouns         : he/his
   bio              : "Assistant Professor"
   employer         : "Florida Polytechnic University"
-  location         : "Lakeland, FL"  
-  uri              : https://selimmd.github.io
+  # location         : "Lakeland, FL"  
+  # uri              : https://selimmd.github.io
   email            : "mselim@floridapoly.edu" 
 
   # Academic websites
