@@ -25,10 +25,10 @@ author:
   name             : "Mohammad Selim, Ph.D."
   #pronouns         : he/his
   bio              : "Assistant Professor"
-  location         : "Lakeland, FL"
   employer         : "Florida Polytechnic University"
+  location         : "Lakeland, FL"  
   uri              : https://selimmd.github.io
-  email            : "selim.iitdu@gmail.com" 
+  email            : "mselim@floridapoly.edu" 
 
   # Academic websites
   googlescholar    : https://scholar.google.com/citations?user=lx7UxJcAAAAJ&hl=en"  
@@ -261,7 +261,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
   - scope:
       path: ""
       type: talks
