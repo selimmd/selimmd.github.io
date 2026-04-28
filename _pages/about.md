@@ -14,6 +14,7 @@ With a PhD from the University of Kentucky and experience as an ORISE Fellow at 
 
 ## Research Interests
 💻 Computer Vision      |  🗣️ Natural Language Processing
+
 ⚙️ Software Engineering |  🔐 Cybersecurity
 
 
