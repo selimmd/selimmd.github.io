@@ -13,7 +13,7 @@ I lead the Multimodal AI Research Lab at Florida Polytechnic University, where w
 With a PhD from the University of Kentucky and experience as an ORISE Fellow at the FDA, my work bridges rigorous computational research with real-world impact. I'm passionate about AI that doesn't just perform well in the lab—but makes a measurable difference in clinical diagnostics, disaster response, and secure infrastructure.
 
 ## Research Interests
-💻 Computer Vision      |  🗣️ Natural Language Processing
+💻 Computer Vision      |  🗣️ Natural Language Processing 
 
 ⚙️ Software Engineering |  🔐 Cybersecurity
 
