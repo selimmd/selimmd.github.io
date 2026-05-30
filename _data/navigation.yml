@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "ReGen Lab"
+  - title: "Home"
     url: / 
+    
+  - title: "ReGen Lab"
+    url: /lab/ 
     
   - title: "Research"
     url: /publications/  
