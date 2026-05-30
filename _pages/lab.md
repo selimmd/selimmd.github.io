@@ -1,7 +1,7 @@
 ---
 
 title: "**Re**presentation and **Gen**erative Learning (ReGen) Lab"
-permalink: lab/
+permalink: /lab/
 author_profile: true
 ---
 
