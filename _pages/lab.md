@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "**Re**presentation and **Gen**erative Learning (ReGen) Lab"
+title: "ReGen Lab"
 permalink: /lab/
 author_profile: true
 ---
