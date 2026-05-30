@@ -13,6 +13,15 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+### 2026
+#### [Fall 2026 | Maachine Learning, Computer Network, Fundamental of Computer Systems
+#### [Spring 2026 | Database-1, Fundamental of Computer Systems
+<br/>
+
+### 2025
+#### [Fall 2025 | Beauty and Joy of Computing, Computer Programming
+<br/>
+
 ### 2024
 #### [Fall 2024 | Natural Language Processing](https://selimmd.github.io/nlp2024/)  Northeastern university
 #### [Spring 2024 | Advance Software Design] Northeastern university
