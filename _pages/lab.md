@@ -1,11 +1,8 @@
 ---
-permalink: /
+
 title: "**Re**presentation and **Gen**erative Learning (ReGen) Lab"
-excerpt: "About ReGen"
+permalink: lab/
 author_profile: true
-redirect_from: 
-  - lab/
-  - lab.html
 ---
 
 # Mission
