@@ -36,6 +36,7 @@ Leveraging remote sensing, GIS data, and aerial imagery combined with environmen
 - If you are a current Florida Poly student with an interest in the crossroads of AI and data-driven problem solving—whether in healthcare, security, or geospatial systems—please feel free to stop by my office or send me an email.
 
 ## News
+- May 2026: One paper was accepted at ICIBM 2026.
 - Apr 2026: Two posters were presented at FloridaPoly Research Day.
 - Jan 2026: Served as a Judge in "Presidential AI Challenge-2026"
 - Aug 2025: Joined Florida Polytechnic University as an Assistant Professor.
